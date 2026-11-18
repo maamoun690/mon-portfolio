@@ -1,3 +1,4 @@
 "#mon portfolio"
-"Projet realis� pendant la formatiobn GIT."
+"Projet realis‚ pendant la formatiobn GIT."
 "contact : moi@exemple.com" 
+modifié deouis github
